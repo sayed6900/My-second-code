@@ -1,0 +1,7 @@
+div{
+    background-color: aqua;
+    border: 10px solid rgba(102, 51, 153, 0.349);
+    padding: 12px;
+    border-radius: 30px;
+    margin: 20px;
+}
